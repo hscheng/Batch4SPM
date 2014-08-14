@@ -27,6 +27,7 @@ rp_Report 3 cut-off level report,txt file contains the bad scan order number
 
 How many workers to use?(Default:1) : 0 will initialize the maximum parallel worker number
                                       1 or just ENTER to skip will not trigger the parallel
-                                      ，填写1或者直接回车跳过就不开并行
 
 Select Data Dir choose your data locationg,e.g.D:\DataProc\sub01，D:\DataProc\sub02，D:\DataProc\sub03..., then the DataDir should be D:\DataProc\
+
+other settings should ref the manual of SPM

@@ -1,0 +1,12 @@
+multicol_resid
+求多列值的残差
+y=f(x)=ax1+bx2+...+kxk+o
+
+pronto_res_plot
+用于proto的分类结果画图
+
+ReSizeData
+二维数据转1维数据，将n*m的矩阵数据，转成（m*n)*1 形式
+
+persigchange_reshape
+先前用脚本得到的信号变化百分比，然后用该函数进行重组
